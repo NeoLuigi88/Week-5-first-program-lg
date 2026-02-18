@@ -1,0 +1,29 @@
+print("Welcome")
+
+name = "Luis"
+
+print(name)
+
+age = 50
+
+print("What is your favorite color?")
+color = input()
+print("Your favorite color is", color)
+
+num1 = 20
+num2 = 35
+
+print(num1 + num2)
+
+if age > 18:
+    print("True")
+else: 
+    print("False")
+
+print("Goodbye")
+
+"""
+Partner 1 Luis Gomez
+Partner 2 Marco Palacios
+
+"""
